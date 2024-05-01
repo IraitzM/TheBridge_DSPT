@@ -9,12 +9,8 @@
 5. Conceptos básicos de Git
 6. Comandos básicos de Git
 7. ¿Qué es GitHub?
-8. ¿Cómo funciona GitHub?
-9. Creando una cuenta en GitHub
-10. Creando un nuevo repositorio en GitHub
-11. Clonando un repositorio de GitHub
-12. Subiendo cambios a GitHub
-13. Referencias y recursos adicionales
+8. Clonando un repositorio de GitHub
+9. Referencias y recursos adicionales
 
 ## 1. ¿Qué es Git?
 
