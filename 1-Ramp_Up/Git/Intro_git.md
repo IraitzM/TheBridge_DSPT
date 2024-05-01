@@ -76,29 +76,9 @@ A continuación se presentan algunos de los comandos básicos que utilizaremos c
 
 GitHub es un servicio de alojamiento en la nube para repositorios de Git. Permite a los desarrolladores almacenar repositorios de Git de manera remota y ofrece muchas características que facilitan la colaboración en proyectos de código abierto y privados. GitHub proporciona una interfaz de usuario basada en web, así como integración con la línea de comandos de Git.
 
-## 8. ¿Cómo funciona GitHub?
+https://github.com/
 
-Cuando trabajas con un repositorio de Git en tu máquina local (tu computadora), se llama repositorio local. Puedes subir este repositorio a GitHub, lo que te permite almacenarlo de manera remota. Este repositorio remoto en GitHub puede ser accesado y descargado por otros desarrolladores. Puede servir como una copia de seguridad de tu trabajo en caso de que algo le suceda a tu máquina local, y permite a otros colaborar en tu proyecto.
-
-## 9. Creando una cuenta en GitHub
-
-Antes de poder utilizar GitHub, necesitas crear una cuenta. Aquí te dejo los pasos para hacerlo:
-
-1. Ve a [GitHub](https://github.com/).
-2. Haz clic en el botón verde "Sign up for GitHub".
-3. Rellena el formulario de registro.
-4. Verifica tu dirección de correo electrónico.
-
-## 10. Creando un nuevo repositorio en GitHub
-
-Una vez que tienes una cuenta en GitHub, puedes crear repositorios para almacenar tus proyectos. Aquí te dejo los pasos para hacerlo:
-
-1. Inicia sesión en GitHub.
-2. Selecciona "New repository".
-3. Rellena el nombre de tu repositorio, añade una descripción (opcional), elige si quieres que sea público o privado, y si quieres inicializarlo con un README.
-4. Haz clic en "Create repository".
-
-## 11. Clonando un repositorio de GitHub
+## 8. Clonando un repositorio de GitHub
 
 Para trabajar en un proyecto almacenado en GitHub, necesitas clonar el repositorio. Esto descargará una copia del repositorio en tu máquina local.
 
@@ -106,19 +86,11 @@ Para trabajar en un proyecto almacenado en GitHub, necesitas clonar el repositor
 git clone <URL del repositorio>
 ```
 
-## 12. Subiendo cambios a GitHub
+Esto también podremos realizarlo desde IDE's como VSCode mediante su menu de inicio.
 
-Cuando hayas hecho algunos cambios en tu repositorio local y quieras subirlos a GitHub, necesitarás añadir tus cambios (add), crear la instánea (commit) y subir esos cambios (push). Esto subirá tus cambios al repositorio remoto en GitHub.
+![clonar-vscode](./img/vscode-clone.png)
 
-```bash
-git add .
-git commit -m "mensaje"
-git push 
-```
-
-En donde `<branch>` es el nombre del branch que quieres subir. Si estás trabajando en el branch principal, el comando sería `git push origin main`.
-
-## 13. Referencias y recursos adicionales
+## 9. Referencias y recursos adicionales
 
 - [Documentación oficial de Git](https://git-scm.com/doc)
 - [Guía de GitHub para principiantes](https://guides.github.com/activities/hello-world/)
