@@ -15,7 +15,7 @@ Os dejamos en el apartado de datos de Teoría información sobre la vivienda en 
     11. PTRATIO  Ratio alumnos-profesor por ciudad
     12. B        1000(Bk - 0,63)^2 donde Bk es la proporción de negros por ciudad
     13. LSTAT    % estatus inferior de la población
-    14. PRICE    Valor medio de las viviendas ocupadas por sus propietarios en miles de dólares
+    14. MEDV    Valor medio de las viviendas ocupadas por sus propietarios en miles de dólares
 
 Para este ejercicio os pedimos que os asocies entre dos o tres compañeros para hacer un análisis de estos datos. Disponéis de multitud de herramientas para obtener información estadística de como es la vida en Boston.
 
