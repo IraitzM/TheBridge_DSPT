@@ -1,8 +1,11 @@
 # Licitaciones
 
-¿Nunca habéis tenido curiosidad por saber cómo se destina vuestro dinero? ¿Para qué se usa?
+¿Nunca habéis tenido curiosidad por saber cómo se destina vuestro dinero? ¿Para qué se usa? Podéis coger como ejemplo ejercicios realizados por Jaime Gómez-Obregón:
 
-Estamos de suerte porque existen datos abiertos, como debe ser, de las licitaciones que sacan los gobiernos autonómicos como por ejemplo:
+* https://contratosdecantabria.es/
+* https://ladonacion.es/
+
+Vosotros también estáis de suerte porque existen datos abiertos, como debe ser, de las licitaciones que sacan los gobiernos autonómicos. Como por ejemplo:
 
 * Navarra: https://datos.gob.es/es/catalogo/a15002917-anuncios-licitaciones
 * Bizkaia: https://datos.gob.es/es/catalogo/l02000048-plan-anual-de-contratacion-pac2
