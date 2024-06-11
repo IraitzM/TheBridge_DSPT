@@ -18,7 +18,7 @@
     - **First to Market Strategy (PMV)**
         
         
-        ![chess](./3-Tableau/img/chess.PNG)
+        ![chess](./Tableau/img/chess.PNG)
         
         Lo ideal es salir (pivotar) el primero en un segmento del mercado. Esto permite ganar ventaja frente a la competencia que se genere en el momento que te copien tu producto/servicio y puedan lanzarlo al mercado (ej. iPhone).
         
@@ -45,7 +45,7 @@
 - **Herramientas**
 Trabajan con **enormes cantidades de datos** en la nube traducidos en métricas, llamados KPIs (Key Performance Indicators) de los principales negocios o áreas de una compañía. Son indicadores clave o medidores de desempeño, es una medida del nivel del rendimiento de un proceso.
 
-    ![herramientas](./3-Tableau/img/herramientas_bi.PNG)
+    ![herramientas](./Tableau/img/herramientas_bi.PNG)
     
     - **Microsoft Power BI**
         
@@ -88,7 +88,7 @@ Más herramientas: https://www.moderndatastack.xyz/companies/business-intelligen
 
 ## ****Storytelling****
 
-![workflow](./3-Tableau/img/workflow.PNG)
+![workflow](./Tableau/img/workflow.PNG)
 
 Cómo crear una presentación efectiva, es decir, maximizar nuestra capacidad de impacto e influencia.
 
