@@ -6,11 +6,11 @@ Para este ejercicio os vamos a pedir que extraigáis ciertos indicadores de la b
 
 Emplearemos la base de datos Snowflake que creamos en sesiones anteriores.
 
-![conexion](./Tableau/img/snowflake-connect.png)
+![](https://file+.vscode-resource.vscode-cdn.net/c%3A/Bootcamp/TheBridge_DSPT/2-Data%20Analysis/7-BI/Tableau/img/snowflake-connect.png?version%3D1718619660785)
 
 Si os conectáis con DBeaver o PowerBI a la base de datos **SNOWFLAKE_SAMPLE_DATA**.**TPCH_S1000** veréis que se os muestran las tablas tal que así.
 
-![schema](./Tableau/img/schema-snow.png)
+![](https://file+.vscode-resource.vscode-cdn.net/c%3A/Bootcamp/TheBridge_DSPT/2-Data%20Analysis/7-BI/Tableau/img/snowflake-connect.png?version%3D1718619724313)
 
 No hay conexión entre las tablas porque al tratarse de una base de datos de carácter analítico (procesado masivo) no dispone de restricciones del tipo Clave Primaria y Clave Foránea. No suelen ser necesarias aunque nos ayudan a entender cómo enlazar las tablas. Habrá que tirar de intuición.
 
@@ -28,16 +28,16 @@ Un aspecto relevante es poder segregar por naciones, regiones, estado de los ped
 
 Nuestra recomendación es que prestéis atención a las métricas y agregaciones que necesitaréis:
 
-* Número de ordenes: COUNT(OrderID)
-* Rendimiento de las ventas: SUM(precioUnidad*UnidadesVendidas)
-* Tiempos de entrega: ReceiptDate - ShippingDate
+- Número de ordenes: COUNT(OrderID)
+- Rendimiento de las ventas: SUM(precioUnidad\*UnidadesVendidas)
+- Tiempos de entrega: ReceiptDate - ShippingDate
 
 Y añadáis la información relativa a las dimensiones:
 
-* Por cliente: CustomerID
-* Por producto: ProductID
-* Por region: RegionID
-* Por prioridad: Ship priority
+- Por cliente: CustomerID
+- Por producto: ProductID
+- Por region: RegionID
+- Por prioridad: Ship priority
 
 Y vemos que enlaces (JOINs) habrá que realizar entre las tablas.
 
