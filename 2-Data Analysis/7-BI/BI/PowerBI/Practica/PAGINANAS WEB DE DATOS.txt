@@ -1,0 +1,19 @@
+PAGINA DE LISTA DE PELICULAS POR RECAUDACION
+
+https://es.wikipedia.org/wiki/Anexo:Pel%C3%ADculas_con_las_mayores_recaudaciones
+
+PAGINA DE POBLACIÓN MUNDIAL
+
+https://www.worldometers.info/
+
+COPA DEL MUNDO
+
+https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol
+
+DATAFRAME CHIPOTLE
+
+https://raw.githubusercontent.com/justmarkham/DAT8/master/data/chipotle.tsv
+
+DATAFRAME DUBLIN BICIS
+
+https://data.smartdublin.ie/dublinbikes-api/last_snapshot/

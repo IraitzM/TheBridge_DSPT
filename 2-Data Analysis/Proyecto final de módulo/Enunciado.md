@@ -8,7 +8,7 @@ En este proyecto final recopilaremos los conocimientos adquiridos durante este p
 
 Para poner a prueba nuestras habilidades en estos roles tomaremos como punto de partida los datos accesibles en multitud de plataformas sobre las **elecciones europeas**.
 
-#### Nuestro empleador requiere que analicemos los datos obtenidos para entender el contexto político y las posibles tendencias que puedan surgir de cara a las próximas elecciones tanto europeas como locales.
+# **Nuestro empleador requiere que analicemos los datos obtenidos para entender el contexto político y las posibles tendencias que puedan surgir de cara a las próximas elecciones tanto europeas como locales.**
 
 Disponéis de multitud de fuentes de las que poder extraer esta información en [la plataforma centralizadora del gobierno](https://datos.gob.es/es/catalogo?q=elecciones+europeas&sort=score+desc%2C+metadata_created+desc).
 
